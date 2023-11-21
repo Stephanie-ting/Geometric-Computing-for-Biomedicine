@@ -1,2 +1,2 @@
 # Geometric-Computing-for-Biomedicine
-This repository includes the codes for projects of CSE554
+This repository includes the code for projects of CSE554
